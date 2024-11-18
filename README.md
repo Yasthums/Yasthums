@@ -1,4 +1,3 @@
-:
 
 👋 Olá,
 Sou uma desenvolvedora apaixonada por resolver problemas complexos usando tecnologia. Aqui, você encontrará projetos voltados para automação, análise de dados e desenvolvimento web, com foco em soluções práticas e escaláveis.
