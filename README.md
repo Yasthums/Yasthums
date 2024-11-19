@@ -26,6 +26,7 @@ Destaques: Integração com buckets S3 e suporte a múltiplos formatos de nota f
 Descrição: Construção de um pipeline para processamento de grandes volumes de dados fiscais e financeiros.
 Tecnologias: Python, Snowflake, AWS CodeBuild.
 Destaques: Automação de fluxos de dados com agendamento e monitoramento contínuo.
+
 📂 O que mais você encontrará aqui?
 Projetos em Flask e APIs: Soluções completas para sistemas web.
 Scripts de Análise de Dados: Foco em otimização e insights de negócios.
